@@ -1,0 +1,1 @@
+Object.values(document.querySelectorAll('*')).forEach(element => element.style.cursor = "wait");
