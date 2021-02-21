@@ -5,3 +5,5 @@
 1.2 fixed background blank space on big screens. and fixed links
 
 1.3 all website files are now sorted and support for the old html hub is now ended
+
+1.4 update page fixed and updated
