@@ -7,3 +7,5 @@
 1.3 all website files are now sorted and support for the old html hub is now ended
 
 1.4 update page fixed and updated
+
+1.5 games/apps download page added
