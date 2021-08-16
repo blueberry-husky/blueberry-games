@@ -9,3 +9,5 @@
 1.4 update page fixed and updated
 
 1.5 games/apps download page added
+
+1.6 added page for my custom browser and added download
